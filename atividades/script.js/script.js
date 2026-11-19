@@ -8,6 +8,8 @@ console.log(resultado);
 
 
 
+
+
 resultado = "10" + 2
 console.log(resultado);
 
